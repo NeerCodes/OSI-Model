@@ -1,6 +1,9 @@
-# OSI Model: Overview, Layers, and Interview Questions
+![OSI](https://github.com/user-attachments/assets/0234aeeb-3f72-48b9-b997-ea51a1fdf5e5)# OSI Model: Overview, Layers, and Interview Questions
 
 ---
+
+![OSI](https://github.com/user-attachments/assets/dc9f33a3-9d04-49f6-be85-0c18c439a83e)
+
 
 ## What is the OSI Model?
 
@@ -153,6 +156,9 @@ The **Open Systems Interconnection (OSI) Model** is a conceptual framework used 
 - Enhances **modularity and interoperability** across systems and vendors.
 
 ---
+
+![Uploading OSI2.jpg…]()
+
 
 
 
