@@ -64,8 +64,6 @@ The **Open Systems Interconnection (OSI) Model** is a conceptual framework used 
 
 ## Common Interview Questions on OSI Model
 
----
-
 1. **What are the seven layers of the OSI Model? Can you briefly describe each?**
 
 - **Application (Layer 7):** Interfaces with end-user applications; provides services like email, file transfer, etc.
