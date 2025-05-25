@@ -1,4 +1,4 @@
-![OSI](https://github.com/user-attachments/assets/0234aeeb-3f72-48b9-b997-ea51a1fdf5e5)# OSI Model: Overview, Layers, and Interview Questions
+# OSI Model: Overview, Layers, and Interview Questions
 
 ---
 
@@ -157,7 +157,8 @@ The **Open Systems Interconnection (OSI) Model** is a conceptual framework used 
 
 ---
 
-![Uploading OSI2.jpg…]()
+![OSI2](https://github.com/user-attachments/assets/4020b84f-3f77-44d3-a9ac-e4d05124fa5f)
+
 
 
 
